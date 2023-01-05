@@ -7,7 +7,7 @@ Frontend Developer. User Experience background
 Frontend developer with 4+ years’ experience creating websites, web apps and AB tests. Strong background in UI/UX creating experiences that are optimised, easy to use and data driven.
 
 * 🌍  I'm based in Sydney, Australia
-* 🖥️  See my portfolio at [minhal.dev/portfolio](http://minhal.dev/portfolio)
+* 🖥️  See my portfolio at [minhal.dev/portfolio](http://minhal.dev/portfolio) which also has commercial and private projects
 
 ### Skills
 
